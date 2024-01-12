@@ -1,7 +1,7 @@
 # Real-Time-Election-Results-Portugal-2019
 
-Project: Real-time Elections Results in Portugal 2019
-#Overview:
+
+## Overview:
 
 Implemented a real-time elections results analysis project focused on the Portugal 2019 elections.
 Leveraged machine learning techniques to provide timely and accurate insights into the election outcomes.
